@@ -1,3 +1,9 @@
+Este é um desafio realizado para uma atividade do Bootcamp Decola Tech Avanade.
+
+Pretendo melhorar este código. Seguem abaixo as orientações. 
+
+Luiza Gois
+
 # DIO - Trilha .NET - Programação orientada a objetos
 www.dio.me
 
